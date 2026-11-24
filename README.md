@@ -10,6 +10,10 @@ The original design was implemented as part of the course, and I extended the pr
 
 This project helped me improve my frontend development skills and gain practical experience in building responsive user interfaces.
 
+## Live Demo
+
+🚀 **[View Live Demo](https://jehad-al-zayat-oss.github.io/elzero-template-three/)**
+
 ## Technologies Used
 
 - HTML5
@@ -30,19 +34,19 @@ This project helped me improve my frontend development skills and gain practical
 
 ## Screenshots
 
-[screenshots](screenshots/1.png)
-[screenshots](screenshots/2.png)
-[screenshots](screenshots/3.png)
-[screenshots](screenshots/4.png)
-[screenshots](screenshots/5.png)
-[screenshots](screenshots/6.png)
-[screenshots](screenshots/7.png)
-[screenshots](screenshots/8.png)
-[screenshots](screenshots/9.png)
-[screenshots](screenshots/10.png)
-[screenshots](screenshots/11.png)
-[screenshots](screenshots/12.png)
-[screenshots](screenshots/13.png)
+![screenshots](screenshots/1.png)
+![screenshots](screenshots/2.png)
+![screenshots](screenshots/3.png)
+![screenshots](screenshots/4.png)
+![screenshots](screenshots/5.png)
+![screenshots](screenshots/6.png)
+![screenshots](screenshots/7.png)
+![screenshots](screenshots/8.png)
+![screenshots](screenshots/9.png)
+![screenshots](screenshots/10.png)
+![screenshots](screenshots/11.png)
+![screenshots](screenshots/12.png)
+![screenshots](screenshots/13.png)
 
 ## Learning Goals
 
